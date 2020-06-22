@@ -11,7 +11,7 @@ declare var JitsiMeetExternalAPI: any;
 export class AppComponent {
 	
   	title = 'app';
-  	domain:string = "vc.sdglobaltech.com/";
+  	domain:string = "meet.jit.si/";
   	options: any;
   	api: any;
 
